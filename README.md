@@ -4,5 +4,5 @@
 
 ## Installation
 
-Same as the original blurredfox however once Installed you need to enable dark theme in firefox settings.
+Same as the original blurredfox however once installed you need to enable dark theme in firefox settings.
 
